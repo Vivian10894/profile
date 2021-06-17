@@ -1,0 +1,151 @@
+* {
+  background-color: #d8be9d;
+  \\border: solid 1px;\\
+}
+.navbar {
+  background-color: #d8be9d;
+  z-index: 99999;
+}
+.navbar-nav {
+  margin-left: 300px;
+}
+.navbar-nav li a {
+  font-size: 14px;
+  font-family: "Montserrat", sans-serif;
+}
+.container {
+  padding-top: 50px;
+}
+section {
+  padding-top: 70px;
+  padding-bottom:70px;
+}
+.info {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100px;
+  width: 250px;
+  position: absolute;
+  top: 450px;
+  right: 20px;
+  font-size: 14px;
+  line-height: 2;
+}
+.sns li {
+  width: 30px;
+  height: 30px;
+  display: block;
+}
+.sns li a img:hover {
+  transform: translate(5px, 0px);
+  transition: transform 0.6s cubic-bezier(0.33, 1, 0.68, 1);
+}
+.sd {
+  height: 600px;
+  width: 400px;
+  background-color: #bc9b7a;
+}
+.jbpic {
+  background-image: url(https://github.com/Vivian10894/profile/blob/gh-pages/img/JB.jpg?raw=true);
+  background-size: cover;
+  height: 600px;
+  width: 400px;
+  z-index: 999;
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  box-shadow: 5px 5px 5px 3px #796450;
+}
+.jbpic:hover {
+  transform: scale(110%);
+  transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.mkpic {
+  background-image: url(https://github.com/Vivian10894/profile/blob/gh-pages/img/MK.jpg?raw=true);
+  background-size: cover;
+  height: 330px;
+  width: 220px;
+  z-index: 999;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  box-shadow: 5px 5px 5px 3px #796450;
+}
+.mkpic:hover {
+  transform: scale(110%);
+  transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.jspic {
+  background-image: url(https://github.com/Vivian10894/profile/blob/gh-pages/img/JS.jpg?raw=true);
+  background-size: cover;
+  height: 330px;
+  width: 220px;
+  z-index: 999;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  box-shadow: 5px 5px 5px 3px #796450;
+}
+.jspic:hover {
+  transform: scale(110%);
+  transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.jypic {
+  background-image: url(https://github.com/Vivian10894/profile/blob/gh-pages/img/JYP.jpg?raw=true);
+  background-size: cover;
+  height: 330px;
+  width: 220px;
+  z-index: 999;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  box-shadow: 5px 5px 5px 3px #796450;
+}
+.jypic:hover {
+  transform: scale(110%);
+  transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.yjpic {
+  background-image: url(https://github.com/Vivian10894/profile/blob/gh-pages/img/CYJ.jpg?raw=true);
+  background-size: cover;
+  height: 330px;
+  width: 220px;
+  z-index: 999;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  box-shadow: 5px 5px 5px 3px #796450;
+}
+.yjpic:hover {
+  transform: scale(110%);
+  transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.bbpic {
+  background-image: url(https://github.com/Vivian10894/profile/blob/gh-pages/img/BB.jpg?raw=true);
+  background-size: cover;
+  height: 330px;
+  width: 220px;
+  z-index: 999;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  box-shadow: 5px 5px 5px 3px #796450;
+}
+.bbpic:hover {
+  transform: scale(110%);
+  transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
+.ygpic {
+  background-image: url(https://github.com/Vivian10894/profile/blob/gh-pages/img/YG.jpg?raw=true);
+  background-size: cover;
+  height: 330px;
+  width: 220px;
+  z-index: 999;
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  box-shadow: 5px 5px 5px 3px #796450;
+}
+.ygpic:hover {
+  transform: scale(110%);
+  transition: transform 0.6s cubic-bezier(0, 0.55, 0.45, 1);
+}
